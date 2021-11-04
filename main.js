@@ -6,6 +6,7 @@ import { show }               from './lib/ui.js';
 import { updateResultScreen } from './lib/ui.js';
 import { el }                 from './lib/helpers.js';
 
+
 const MAX_BEST_OF = 10;
 let totalRounds;
 let currentRound;
